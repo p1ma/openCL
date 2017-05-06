@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+# directories and useless files
+/td0/CMakeFiles/*
+/td0/*.txt
+/td0/cmake_install.cmake
